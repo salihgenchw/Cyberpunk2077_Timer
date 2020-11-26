@@ -1,0 +1,11 @@
+*{
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background-color: #f8f301;
+}
+
+ul li span {
+    font-size: 3rem;
+}
